@@ -1,0 +1,7 @@
+.task-item {
+    justify-content: space-between;
+}
+
+.item-button {
+    display: flex;
+}
